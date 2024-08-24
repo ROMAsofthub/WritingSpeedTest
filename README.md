@@ -18,3 +18,4 @@
 4. Press `Enter` to submit each phrase.
 5. Your speed (in words per minute) and Correct/Incorrect written words.
 
+V1.0
