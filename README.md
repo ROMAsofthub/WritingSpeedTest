@@ -1,7 +1,7 @@
 
 ## Overview
 
-**Writing Speed Test** is a simple program designed to measure your typing speed and accuracy. The test consists of 100 different phrases that are presented randomly each time you start. Your results are calculated instantly and displayed at the end of the test.
+**Writing Speed Test** is a simple program designed to measure your typing speed and accuracy. The test consists of 100 different phrases. Your results are calculated instantly and displayed at the end of the test.
 
 ## Features
 
@@ -13,9 +13,9 @@
 ## Usage
 
 1. Start the test by running the program.
-2. Select the phrase from 100
+2. Select the phrase from 100 or type 'r' to ranmly select one
 3. Type the given phrase as accurately and quickly as possible.
-4. Press `Enter` to submit each phrase.
+4. Press `Enter` to submit your phrase.
 5. Your speed (in words per minute) and Correct/Incorrect written words.
 
 v2.0
